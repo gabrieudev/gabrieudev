@@ -1,8 +1,10 @@
-<h2 align="left">👋 Hi there, welcome to my Github profile</h2>
+## 👋 Hi there, welcome to my Github profile
+
+- My name is Gabriel Santos and i'm Java Developer, from SE, Brazil.
 
 <h2 align="left">About me</h2>
 
--a
+- Undergraduate in Systems Development at the Federal Institute of Sergipe
 
 ###
 
