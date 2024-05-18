@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<h2 align="left">About me</h2>
+
+###
+
 <h2 align="left">Techs</h2>
 
 ###
