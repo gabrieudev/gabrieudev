@@ -1,6 +1,6 @@
 ## 👋 Hi there, welcome to my Github profile
 
-- My name is Gabriel Santos and i'm Back-End Developer.
+- My name is João Gabriel and i'm Back-End Developer.
 
 <h2 align="left">About me</h2>
 
