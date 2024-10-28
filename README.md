@@ -4,7 +4,7 @@
 
 <h2 align="left">About me</h2>
 
-- You can see everything about me and much more in my [portfolio](https://gabriel-inky.vercel.app/).
+- You can see everything about me or contact me through my [portfolio](https://gabriel-inky.vercel.app/).
 
 ###
 
