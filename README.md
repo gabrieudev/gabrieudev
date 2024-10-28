@@ -1,6 +1,6 @@
 ## 👋 Hi there, welcome to my Github profile
 
-- My name is Gabriel Santos and i'm Back-End Developer, from SE, Brazil.
+- My name is Gabriel Santos and i'm Back-End Developer.
 
 <h2 align="left">About me</h2>
 
