@@ -4,7 +4,7 @@
 
 <h2 align="left">About me</h2>
 
-- Undergraduate in Systems Development at the Federal Institute of Sergipe
+- You can see everything about me and much more in my [portfolio](https://gabriel-inky.vercel.app/).
 
 ###
 
