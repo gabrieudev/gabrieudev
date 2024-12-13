@@ -1,10 +1,10 @@
-## 👋 Hi there, welcome to my Github profile
+## 👋 Olá, bem vindo(a) ao meu perfil no GitHub!
 
-- My name is João Gabriel and i'm Back-End Development Student.
+- Meu nome é João Gabriel e eu sou um estudante de desenvolvimento Back-End.
 
 <h2 align="left">About me</h2>
 
-- You can see everything about me or contact me through my [portfolio](https://gabriel-inky.vercel.app/).
+- Você pode ver tudo sobre mim ou me contatar através do meu [portfólio](https://gabriel-inky.vercel.app/).
 
 ###
 
