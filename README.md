@@ -2,7 +2,7 @@
 
 - Meu nome é João Gabriel e eu sou um estudante de Desenvolvimento Back-End.
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 - Você pode ver minhas informações ou entrar em contato comigo através do meu [portfólio](https://gabriel-inky.vercel.app/).
 
