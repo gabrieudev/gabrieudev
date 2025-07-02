@@ -4,7 +4,7 @@
 
 <h2 align="left">Sobre mim</h2>
 
-- Você pode ver minhas informações ou entrar em contato comigo através do meu [portfólio](https://gabriel-inky.vercel.app/).
+- Você pode ver minhas informações ou entrar em contato comigo através do meu [portfólio](https://gabrieudev.com).
 
 ###
 
