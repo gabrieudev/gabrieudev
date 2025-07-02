@@ -1,6 +1,6 @@
 ## 👋 Olá, bem vindo(a) ao meu perfil no GitHub!
 
-- Meu nome é João Gabriel e eu sou um estudante de Desenvolvimento Full-Stack.
+- Meu nome é João Gabriel e eu sou um Desenvolvedor de Software.
 
 <h2 align="left">Sobre mim</h2>
 
