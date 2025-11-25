@@ -1,6 +1,6 @@
 ## 👋 Olá, bem vindo(a) ao meu perfil no GitHub!
 
-- Me chamo João Gabriel, atualmente Desenvolvedor Front-End na Atos Capital, empresa no setor de serviços financeiros.
+- Me chamo João Gabriel, atualmente sou Desenvolvedor na Atos Capital, empresa no setor de serviços financeiros.
 
 <h2 align="left">Sobre mim</h2>
 
